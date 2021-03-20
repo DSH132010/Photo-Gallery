@@ -1,0 +1,76 @@
+    .grid img {
+        height: 300px;
+        width: 200px;
+        margin-left: 10px;
+        margin-right: 10px;
+        margin-bottom: 20px;
+    }
+
+    html {
+        text-align: center;
+        background-color: aquamarine;
+    }
+
+    #myCarousel img {
+        height: 300px;
+        width: 200px;
+    }
+
+    #myCarousel #Poster {
+        width: 500px;
+    }
+
+    #myCarousel {
+        margin-bottom: 300px;
+        background-color: aquamarine;
+    }
+
+    .grid #Poster {
+        width: 500px;
+    }
+
+    .grid {
+        background-color: aquamarine;
+    }
+
+    h3 {
+        background-color: aquamarine;
+    }
+
+    #slide {
+        background-color: aquamarine;
+    }
+
+    br {
+        background-color: aquamarine;
+    }
+
+    #myCarousel #p {
+        width: 300px;
+    }
+
+    .grid #p {
+        width: 300px;
+        margin-bottom: 200px;
+    }
+
+    .grid #h {
+        width: 500px;
+        margin-top: 30px;
+    }
+
+    #myCarousel #h {
+        width: 500px;
+    }
+
+    .grid #p2 {
+        width: 400px;
+    }
+
+    #myCarousel #p2 {
+        width: 400px;
+    }
+
+    #myCarousel #p3 {
+        width: 500px;
+    }
